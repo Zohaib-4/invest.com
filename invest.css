@@ -9,10 +9,22 @@ body {
 
 }
 
+
 .navbar {
     background-color: black;
     margin: auto;
+    padding: auto;
     size: 50;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar2{
+    margin-top: 7px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+    color: #fff;
 }
 
 span {
